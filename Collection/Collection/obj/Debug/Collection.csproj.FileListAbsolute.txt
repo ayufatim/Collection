@@ -1,0 +1,20 @@
+E:\22.11.4770\Collection\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+E:\22.11.4770\Collection\Collection\obj\Debug\Collection.Form1.resources
+E:\22.11.4770\Collection\Collection\obj\Debug\Collection.Properties.Resources.resources
+E:\22.11.4770\Collection\Collection\obj\Debug\Collection.csproj.GenerateResource.cache
+E:\22.11.4770\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+E:\22.11.4770\Collection\Collection\bin\Debug\Collection.exe.config
+E:\22.11.4770\Collection\Collection\bin\Debug\Collection.exe
+E:\22.11.4770\Collection\Collection\bin\Debug\Collection.pdb
+E:\22.11.4770\Collection\Collection\obj\Debug\Collection.exe
+E:\22.11.4770\Collection\Collection\obj\Debug\Collection.pdb
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\bin\Debug\Collection.exe.config
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\bin\Debug\Collection.exe
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\bin\Debug\Collection.pdb
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\obj\Debug\Collection.Form1.resources
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\obj\Debug\Collection.Properties.Resources.resources
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\obj\Debug\Collection.csproj.GenerateResource.cache
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\obj\Debug\Collection.exe
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Collection\Collection\Collection\obj\Debug\Collection.pdb
